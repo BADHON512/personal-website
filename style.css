@@ -1,0 +1,90 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+    margin: 0px;
+}
+.first{
+    height: 700px;
+    background-image: url(images/header-bg.png);
+}
+.thrd{
+    background-image: url(images/biography-bg.png);
+}
+.forth{
+    background-image: url(images/latest-work-bg.png);
+}
+.footer{
+    background-image: url(images/footer-bg.png);
+}
+
+.half-width{
+    width: 500px;
+    float: left;
+    image:100%;
+    margin-left: 100px;
+    margin-top: 80px;
+    
+}
+.half-width img{
+height:550px;
+width: 550px;
+}
+#text{
+    margin-top: 200px;
+    
+}
+ .holod{
+    color: rgb(230, 111, 14);
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+    background-image: linear-gradient(45deg, red, yellow );
+    padding:10px 30px;
+    border-radius: 5px;
+    margin-top:10px;
+}
+#niche{
+    margin-top: 250px;
+}
+.fho img{
+    height: 200px;
+    width:100;
+    margin-left: 150px;
+   
+}
+.thrd-text h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+}
+#bb-text{
+    text-align: center;
+}
+#bb-text h1{
+    font-size: 40px;
+    padding: 40px;
+}
+#bb-text p{
+    color: rgb(41, 41, 38);
+}
+.last{
+    width: 400px;
+    height: 50px;  
+    padding: 50px;
+    border: 1px solid red;
+    text-align: center;
+    margin-left: 450px;
+    margin-bottom: 50px;
+    margin-top:20px;
+    padding-top: 20px;
+    background-color: orangered;
+    border-radius: 10px;
+}
+footer{
+    font: bold;
+    text-align: center;
+    padding-top: 100px;
+}
+#bb-text h4{
+    padding-top: 20px;
+}
